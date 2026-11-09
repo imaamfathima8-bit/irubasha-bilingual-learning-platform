@@ -55,3 +55,9 @@ This was a collaborative academic project developed by Group 06.
 - Dilmini Dasunika
 - Sewmini Dissanayake
 - Piratheesha Ambikaipakan
+
+## Live Demo
+
+Try the deployed application:
+
+[Open IruBasha](https://irubasha-frontend.onrender.com/)
